@@ -1,0 +1,8 @@
+[X] Heaps
+[] Linked Lists
+[] Stacks and Queues
+[] Doubly Linked Lists
+[] Binary Trees
+[] Tries
+[] Hash Tables
+[] Graphs
