@@ -1,5 +1,5 @@
 [X] Heaps
-[] Linked Lists
+[X] Linked Lists
 [] Stacks and Queues
 [] Doubly Linked Lists
 [] Binary Trees
